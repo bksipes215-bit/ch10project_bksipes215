@@ -17,6 +17,10 @@
 
 <h1>Form Confirmation</h1>
 
+<p><strong>Name:</strong> Bailey Sipes</p>
+
+<p><strong>Date:</strong> <?php echo date("F j, Y"); ?></p>
+
 <?php
 
 // Check that the form was submitted
